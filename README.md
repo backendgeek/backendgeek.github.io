@@ -6,7 +6,16 @@
 
 ## Code Samples
 
-> <a href="https://jscafe.in/quotes-generator" target="_blank">Quotes Generator</a>
-> <a href="https://jscafe.in/infinite-scroll" target="_blank">Quotes Generator</a>
 
+<!-- 
+## Technologies
+***
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234 -->
 
+## Code Samples
+***
+* [Quotes Generator](https://devbox.in/quotes-generator)
+* [Infinite Scroll](https://devbox.in/infinite-scroll)
