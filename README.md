@@ -4,9 +4,6 @@
 
 > I am listing all the demos created online using various stack
 
-## Code Samples
-
-
 <!-- 
 ## Technologies
 ***
